@@ -52,3 +52,16 @@ else:
 for value in range(1,11):
 	x[value] = value * value
 print(x)
+
+employee = {"id":10102121, "name":"John Smith", "desgination":"Software Engineeer", "salary":25000, "email" : "smith@msn.com"}
+print(employee,type(employee))
+
+# Built In Methods
+print(employee.keys())
+print(employee.values())
+print(employee.items())
+
+for x in employee.items():
+	print(x)
+else:
+	print(type(x))
