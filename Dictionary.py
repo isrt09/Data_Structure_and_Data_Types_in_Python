@@ -82,4 +82,4 @@ print(d)
 
 p = [1,2,3,4,5]
 d = dict.fromkeys(p,0)
-print(d)
+print(d) 
