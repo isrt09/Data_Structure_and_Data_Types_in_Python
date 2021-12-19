@@ -65,3 +65,21 @@ for x in employee.items():
 	print(x)
 else:
 	print(type(x))
+
+m = [1,2,3,4,5]
+n = [5,8,3,9,8]
+d = dict(zip(m,n))
+print(d)
+
+i = {1:100, 2:200,3:300}
+j = {4:900, 5:400, 6:800}
+i.update(j)
+print(i)
+
+p = [1,2,3,4,5]
+d = dict.fromkeys(p)
+print(d)
+
+p = [1,2,3,4,5]
+d = dict.fromkeys(p,0)
+print(d)
