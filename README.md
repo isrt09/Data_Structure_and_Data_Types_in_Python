@@ -4,4 +4,5 @@
 - Tuple : Indexing and Slicing
 - Dictionary : Storing and Accessing, Update and Delete Operations
 - Set : Add, Update, Delete operations
+- Map, Filter, Lamdda Functions Workflow
 - Working with Math and Random Modules, Math functions, Random Number Generator
