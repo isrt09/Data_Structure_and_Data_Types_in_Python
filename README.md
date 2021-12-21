@@ -5,4 +5,7 @@
 - Dictionary : Storing and Accessing, Update and Delete Operations
 - Set : Add, Update, Delete operations
 - Map, Filter, Lamdda Functions Workflow
-- Working with Math and Random Modules, Math functions, Random Number Generator
+- Iterator, Generator, Decorator and Itertools
+- Module and Packages
+- Math and Random Modules, Math functions, Random Number Generator
+- File Operation : JSON, XML
